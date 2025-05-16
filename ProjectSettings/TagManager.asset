@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: blackScreenvn
+    uniqueID: 3311771239
+    locked: 0
+  - name: textboxVn
+    uniqueID: 490646533
+    locked: 0
+  - name: avatarVN
+    uniqueID: 3702552589
+    locked: 0
+  - name: text
+    uniqueID: 1752789231
+    locked: 0
