@@ -20,4 +20,5 @@ Honestly, most of the work happens behind the scenes, as it's mainly demonstrate
 </p>
 
 ## 📦 Descargar
+[Descargar juego (.rar)](https://github.com/FacundoJavierOlmedo/parcial1-inteligencia-artificial-2/releases/latest)
 
