@@ -11,7 +11,7 @@ A character loads a dialogue, then the program sequentially instantiates three b
 Honestly, most of the work happens behind the scenes, as it's mainly demonstrated through the console.
 
 
-## 🖼️ Capturas
+## 🖼️ Capturas/Screenshots
 
 <p align="center">
   <img src="images/1.png" width="200"/>
@@ -19,6 +19,6 @@ Honestly, most of the work happens behind the scenes, as it's mainly demonstrate
   <img src="images/3.png" width="200"/>
 </p>
 
-## 📦 Descargar
-[Descargar juego (.rar)](https://github.com/FacundoJavierOlmedo/parcial1-inteligencia-artificial-2/releases/latest)
+## 📦 Descargar/Download 
+[download (.rar)](https://github.com/FacundoJavierOlmedo/parcial1-inteligencia-artificial-2/releases/latest)
 
