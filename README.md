@@ -20,5 +20,5 @@ Honestly, most of the work happens behind the scenes, as it's mainly demonstrate
 </p>
 
 ## 📦 Descargar/Download 
-[download (.rar)](https://github.com/FacundoJavierOlmedo/parcial1-inteligencia-artificial-2/releases/latest)
+[Download coffeshopsim (.rar)](https://github.com/FacundoJavierOlmedo/CoffeeShopSimulator-P1IA2/releases/download/coffe/coffeshopsim.rar)
 
